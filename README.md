@@ -71,7 +71,6 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle (proxy for PL/SQL)"></code>
     <code><img width="12%" src="https://img.icons8.com/color/452/c-programming.png"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
-    <code><img width="10%" src="plsql-icon.svg" alt="PL/SQL"></code>
 <p align="center">
     
 <hr>

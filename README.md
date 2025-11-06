@@ -61,12 +61,6 @@
     <a href="#">
         <img alt="PL/SQL"
              src="https://img.shields.io/badge/PL/SQL-07405E?style=flat&logo=sql&logoColor=white"/></a>
-    <a href="#">
-        <img alt="MySql"
-             src="https://img.shields.io/badge/mysql-DDD7D9?style=flat&logo=mysql&logoColor=black"/></a>
-    <a href="#">
-        <img alt="SQLServer"
-             src="https://img.shields.io/badge/SQL%20Server-a9a9a9?style=flat&logo=amazon-dynamodb&logoColor=white"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -76,6 +70,8 @@
     <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
     <code><img width="12%" src="https://img.icons8.com/color/452/c-programming.png"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
+    <code><img width="11%" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java logo"></code>
+    <code><img width="10%" src="https://img.icons8.com/color/452/pl-sql.png" alt="PL/SQL logo"></code>
 </p>
 
 <p align="center">

@@ -10,9 +10,9 @@
 
 <p align="left">
   <a title="Gmail" href="mailto:alijonov0608@gmail.com"><img width="40" src="./gfx/icons/gmail.png"></a> 
-  <a title="Instagram" href="https://www.instagram.com/mukhammadkodir_alijonov/"><img width="40" src="./gfx/icons/instagram.png"></a> 
+  <a title="Instagram" href="https://www.instagram.com/muhammadkodir_alijonov/"><img width="40" src="./gfx/icons/instagram.png"></a> 
   <a title="GitHub" href="https://github.com/muhammadkodir-alijonov"><img width="40" src="./gfx/icons/github.png"></a> 
-  <a title="LinkedIn" href="https://www.linkedin.com/in/muhammadkodir-alijonov-577472220/"><img width="40" src="./gfx/icons/linkedin.png"></a> 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/ali-muhammad-577472220/"><img width="40" src="./gfx/icons/linkedin.png"></a> 
   <a title="LeetCode" href="https://leetcode.com/muhammadkodir_alijonov/"><img width="35" src="./gfx/icons/leetcode.svg"></a>
   <a title="Telegram" href="https://t.me/muhammadkodiralijonov"><img width="35" src="./gfx/icons/telegram.svg"></a>
 </p>

@@ -69,7 +69,7 @@
     <code><img width="11%" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"></code>
     <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
     <code><img width="12%" src="https://img.icons8.com/color/452/c-programming.png"></code>
-    <code><img width="11%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
     <code><img width="7%" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java logo"></code>
 </p>
 

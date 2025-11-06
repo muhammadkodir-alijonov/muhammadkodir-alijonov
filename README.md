@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Mukhammadkodir Alijonov's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Welcome to Muhammadkodir Alijonov's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr>
 
@@ -19,8 +19,8 @@
 
 
 ## 📊 Github Stats ⚡
-![](https://github-readme-stats.vercel.app/api?username=mukhammadkodir-alijonov&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mukhammadkodir-alijonov&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=muhammadkodir-alijonov&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadkodir-alijonov&theme=tokyonight&hide_border=true)
 
 ## 🛠️ My favorite tools
 

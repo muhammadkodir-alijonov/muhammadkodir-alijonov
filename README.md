@@ -72,11 +72,6 @@
     <code><img width="12%" src="https://img.icons8.com/color/452/c-programming.png"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
     <code><img width="10%" src="plsql-icon.svg" alt="PL/SQL"></code>
-  <code><img width="20%" src="plsql-horizontal.svg" alt="PL/SQL logo"></code>
-  <code><svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="PL/SQL"> <defs> <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"> <stop offset="0" stop-color="#ff8a00"/> <stop offset="1" stop-color="#ff3d00"/> </linearGradient> </defs> <rect x="6" y="6" width="188" height="188" rx="30" fill="url(#g)"/> <ellipse cx="100" cy="60" rx="52" ry="18" fill="#ffffff"/> <rect x="48" y="60" width="104" height="60" rx="8" fill="#ffffff"/> <ellipse cx="100" cy="120" rx="52" ry="18" fill="#f7f7f7"/> <text x="100" y="160" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#6b2a00" font-weight="700" text-anchor="middle">PL/SQL</text> </svg></code>
-</p>
-<code><img width="64" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'><defs><linearGradient id='g' x1='0' x2='1' y1='0' y2='1'><stop offset='0' stop-color='%23ff8a00'/><stop offset='1' stop-color='%23ff3d00'/></linearGradient></defs><rect x='6' y='6' width='188' height='188' rx='30' fill='url(%23g)'/><ellipse cx='100' cy='60' rx='52' ry='18' fill='%23ffffff'/><rect x='48' y='60' width='104' height='60' rx='8' fill='%23ffffff'/><ellipse cx='100' cy='120' rx='52' ry='18' fill='%23f7f7f7'/><text x='100' y='160' font-family='Arial,Helvetica,sans-serif' font-size='28' fill='%236b2a00' font-weight='700' text-anchor='middle'>PL/SQL</text></svg>" alt="PL/SQL"></code>
-
 <p align="center">
     
 <hr>

@@ -28,30 +28,6 @@
 
 ![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#">
-        <img alt="ASP.NET"
-             src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=flat&logo=ASP.NET&logoColor=white"></a>
-    <a href="#">
-        <img alt=".NET6"
-             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=flat&logo=.NET6&logoColor=white"></a>
-    <a href="#">
-        <img alt="ASP.NET Core"
-             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=flat&logo=ASP.NET Core&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Entity%20Framework%20Core"
-             src="https://img.shields.io/badge/Entity%20Framework-092E20?style=flat&logo=Entity%20Framework&logoColor=green"></a>
-    <a href="#">
-        <img alt="OpenCV"
-             src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white"/></a>
-    <a href="#">
-        <img alt="MVC"
-             src="https://img.shields.io/badge/MVC-43B02A?style=flat&logo=MVC&logoColor=white"/></a>
-</p>
-
 ### 🗄️ Databases
 
 <p>
